@@ -1,0 +1,145 @@
+/* home scree ine page */
+html {
+  margin: 21px;
+  color: #48426b;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 100;
+}
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: -7px;
+}
+.header-images1 {
+  width: 22px;
+  height: 12px;
+  margin-top: 6px;
+}
+
+.header-image2 {
+  margin-left: 15px;
+}
+.header-images2-text {
+  font-size: 11px;
+  text-align: center;
+  font-weight: bold;
+}
+.header-text {
+  font-size: 17px;
+  text-align: right;
+  margin-left: 17px;
+  left: 122px;
+  top: 129px;
+  line-height: 16px;
+}
+/* search box */
+.search-box {
+  position: absolute;
+  display: flex;
+  flex-wrap: wrap;
+  width: 330px;
+  height: 56px;
+  left: 21px;
+  top: 190px;
+}
+
+.search-box-input {
+  display: flex;
+  justify-content: space-between;
+  width: 285px;
+  height: 56px;
+  background-color: #f3f4f9;
+  border: none;
+  border-radius: 18px;
+}
+.search-box-image {
+  width: 26px;
+  height: 17px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+/* recommended combo */
+.recommended-combo-text {
+  position: absolute;
+  font-size: 20px;
+  left: 27.34px;
+  top: 263px;
+}
+.recommended-combo-dishes,
+.hottest-dishes {
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 179px;
+  width: 85%;
+}
+.recommended-combo-dishe,
+.hottest-dishe1,
+.Hottest-dishe2 {
+  position: relative;
+  width: 146px;
+  height: 176px;
+  background-color: white;
+  border: none;
+  border-radius: 18px;
+  box-shadow: 0px 20px 20px 0px #e5e5e57c;
+}
+.dishes-images1 {
+  width: 80px;
+  height: 80px;
+  margin-top: 14px;
+  margin-left: 20%;
+}
+.dishes-images2 {
+  position: absolute;
+  right: 13px;
+  top: 13px;
+}
+.choose-dishe {
+  margin-top: 500px;
+}
+.choose-dishe-nav {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: -49px;
+}
+.choose-item,
+.choose-item1 {
+  font-size: 14px;
+  margin: 10px;
+  color: #938db5;
+  margin-top: -15px;
+}
+.choose-item1 {
+  font-size: 19px;
+  color: #27214d;
+  font-weight: bold;
+  border-bottom: 2px solid #ffa451;
+}
+.hottest-dishes {
+  margin-top: 10px;
+}
+.hottest-dishe1 {
+  background-color: #fffaeb;
+}
+.Hottest-dishe2 {
+  background-color: #fef0f0;
+}
+.dish-name {
+  font-size: 13px;
+  font-weight: bold;
+  text-align: center;
+}
+.price-text {
+  font-size: 13px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+.add-icon {
+  position: absolute;
+  right: 9px;
+  top: 138px;
+}
+/*end home scree ine page */
