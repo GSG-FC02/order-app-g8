@@ -1,3 +1,58 @@
+
+.order-complete-container {
+  position: relative;
+  width: 247px;
+  height: 328px;
+  left: 100px;
+  top: 162px;
+}
+.order-complete-text1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  font-size: 20px;
+  width: 224px;
+  height: 32px;
+  left: 100px;
+  top: 382px;
+  color: #27214d;
+  margin-top: 50px;
+}
+.order-complete-text2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 12.7px;
+  margin-right: 69px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-weight: 800;
+  line-height: 20px;
+  color: #27214d;
+}
+
+#order-button1 {
+  position: absolute;
+  left: 121px;
+  top: 530px;
+  height: 54px;
+  width: 133px;
+  background: #ffa451;
+  border: 1px solid #ffa451;
+  border-radius: 10px;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+#order-button2 {
+  position: absolute;
+  height: 56px;
+  width: 181px;
+  left: 97px;
+  top: 640px;
+  border: 1px solid #ffa451;
+  border-radius: 12px;
+  color: #ffa451;
+  background: white;
+}
+
 .welcome-container {
     position: absolute;
     width: 375px;
